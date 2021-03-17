@@ -1,0 +1,1 @@
+Asp.net core web api for gather timestamped gps data and creating geometry out of it for storage.
